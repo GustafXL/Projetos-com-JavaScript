@@ -1,0 +1,33 @@
+body {
+    background: rgb(64, 145, 238);
+    font: normal 15pt Arial;
+    color: whitesmoke;
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 20px;
+    padding: 15px;
+    width: 450px;
+    margin: auto;
+    color: black;
+    box-shadow: 5px 5px 20px rgb(77, 67, 67);
+}
+
+
+.fim {
+    margin-left: 15px;
+}
+.passo {
+    text-indent: -8px;
+}
+
+
+footer {
+    text-align: center;
+    font-style: italic;
+}
